@@ -1,3 +1,8 @@
+# Modifications
+
+These uniswap contracts have been forked/modified to support solidity > 0.8.
+For testing purposes.
+
 # Uniswap V2
 
 [![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
